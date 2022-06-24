@@ -34,7 +34,7 @@ $ rails s
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/butlermuwo/hello-rails-react/issues).
 
 ## Show your support
 
